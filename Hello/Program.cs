@@ -4,11 +4,11 @@ class Hello
 {
     public static void Main()
     {
-        
     }
 
     public static void GreetWhite()
     {
-        Console.WriteLine("hello white");
+        
+        Console.WriteLine("hello everyone");
     }
 }
