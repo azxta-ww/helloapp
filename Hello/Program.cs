@@ -7,7 +7,7 @@ class Hello
         
     }
 
-    public static string GreetWhite()
+    public static void GreetWhite()
     {
         Console.WriteLine("hello white");
     }
