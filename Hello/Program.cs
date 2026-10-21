@@ -4,6 +4,8 @@ class Hello
 {
     public static void Main()
     {
+        GreetWhite();
+        GreetBlack();
     }
 
     public static void GreetWhite()
