@@ -4,6 +4,11 @@ class Hello
 {
     public static void Main()
     {
-        Console.WriteLine("Hello");
+        
+    }
+
+    public static string GreetWhite()
+    {
+        Console.WriteLine("hello white");
     }
 }
